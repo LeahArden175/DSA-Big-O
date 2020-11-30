@@ -52,5 +52,19 @@
     Check big-0.js
 
 13. Recursive Big O
+      - Counting Sheep: Constant time O(1)
+      - Power Calculator: Constant time O(1)
+      - Reverse String: Constant time O(1)
+      - Nth Triangle Number: Constant time O(1)
+      - String Splitter: Logarithmic time O(log(n))
+      - Fibonacci: Logarithmic time O(log(n))
+      - Factorial: Constant time O(1)
 
 14. Iterative Big O
+      - Counting Sheep: Linear time O(n)
+      - Power Calculator: Linear time O(n)
+      - Reverse String: Linear time O(n)
+      - Nth Triangle Number: Linear time O(n)
+      - String Splitter: Linear time O(n)
+      - Fibonacci: Linear time O(n)
+      - Factorial: Linear time O(n)
